@@ -1,6 +1,7 @@
 ---
 languages: javascript
 tags: jquery, ajax, json, api, function, loops
+  resources: 2
 ---
 
 # Flickr Image Search
@@ -54,3 +55,7 @@ Read more about Flickr API here: [http://www.flickr.com/services/api/request.res
 Add the jQuery fancybox plugin to make images modal (light-box) when you click on them.
 
 Directions at: [http://fancyapps.com/fancybox/](http://fancyapps.com/fancybox/)
+
+## Resources
+* [Flickr API](https://www.flickr.com/services/api/) - [constructing an image URI](https://www.flickr.com/services/api/misc.urls.html)
+* [Flickr API](https://www.flickr.com/services/api/) - [Making RESTful requests](https://www.flickr.com/services/api/request.rest.html)
