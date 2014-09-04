@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 API url: 
 
-http://www.flickr.com/services/api/request.rest.html
+https://www.flickr.com/services/api/request.rest.html
 
 AJAX request URLwith tags=cat (search term = cat):
 
