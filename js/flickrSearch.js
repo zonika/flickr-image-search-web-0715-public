@@ -12,7 +12,7 @@ http://www.flickr.com/services/api/request.rest.html
 
 AJAX request URLwith tags=cat (search term = cat):
 
-http://api.flickr.com/services/rest/?format=json&method=flickr.photos.search&api_key=2fd41b49fedfd589dc265350521ab539&tags=cat&jsoncallback=?
+https://api.flickr.com/services/rest/?format=json&method=flickr.photos.search&api_key=2fd41b49fedfd589dc265350521ab539&tags=cat&jsoncallback=?
 
 JSON Snippet:
 
